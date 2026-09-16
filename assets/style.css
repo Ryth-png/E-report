@@ -79,3 +79,31 @@ section {
         width: 400px;
     }
 }
+
+footer {
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+    opacity: 75%;
+}
+
+.footer-link:hover {
+    color: #fdfdfd;
+    text-decoration: underline;
+    opacity: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.copyright {
+    color: #fff;
+    opacity: 75%;
+    margin-top: 100px;
+}
